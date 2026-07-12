@@ -1,6 +1,7 @@
 {
-  "name": "imyavuz-bot",
+  "name": "corebot",
   "version": "0.0.1",
+  "description": "CoreBot, sunucunuzu moderasyon, müzik, davet sayacı ve çekiliş yönetimi ile güçlendiren çok amaçlı bir Discord botudur. / CoreBot is a multifunctional Discord bot that empowers your server with moderation, music, invite tracking, and giveaway management.",
   "main": "bot.js",
   "scripts": {
     "test": "node bot.js"
@@ -33,6 +34,5 @@
     "youtube-dl-exec": "^3.0.10",
     "ytdl-core": "^4.11.5"
   },
-  "keywords": [],
-  "description": ""
+  "keywords": []
 }
